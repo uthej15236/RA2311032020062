@@ -57,3 +57,18 @@ Notification app:
 - Both apps call the protected evaluation APIs by first generating a Bearer token using `/auth`.
 - Credentials should be placed in each app's `.env` file.
 - Logging middleware sends logs to `/logs` and supports the exact allowed stack/level/package values from the prompt.
+
+## Evidence Screenshots
+
+Vehicle scheduler API screenshots:
+
+- `vehicle_maintenance_scheduler/output_screenshots/01_vehicle_health_200.png`
+- `vehicle_maintenance_scheduler/output_screenshots/02_vehicle_schedule_all_200.png`
+- `vehicle_maintenance_scheduler/output_screenshots/03_vehicle_schedule_depot_1_200.png`
+
+Notification API screenshots:
+
+- `notification_app_be/output_screenshots/01_notification_health_200.png`
+- `notification_app_be/output_screenshots/02_priority_notifications_top10_200.png`
+- `notification_app_be/output_screenshots/03_priority_notifications_refresh_200.png`
+- `notification_app_be/output_screenshots/04_priority_notifications_cached_200.png`
