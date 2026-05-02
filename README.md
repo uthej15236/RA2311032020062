@@ -62,13 +62,13 @@ Notification app:
 
 Vehicle scheduler API screenshots:
 
-- `vehicle_maintenance_scheduler/output_screenshots/01_vehicle_health_200.png`
-- `vehicle_maintenance_scheduler/output_screenshots/02_vehicle_schedule_all_200.png`
-- `vehicle_maintenance_scheduler/output_screenshots/03_vehicle_schedule_depot_1_200.png`
+![Vehicle Health 200](vehicle_maintenance_scheduler/output_screenshots/01_vehicle_health_200.png)
+![Vehicle Schedule All 200](vehicle_maintenance_scheduler/output_screenshots/02_vehicle_schedule_all_200.png)
+![Vehicle Schedule Depot 1 200](vehicle_maintenance_scheduler/output_screenshots/03_vehicle_schedule_depot_1_200.png)
 
 Notification API screenshots:
 
-- `notification_app_be/output_screenshots/01_notification_health_200.png`
-- `notification_app_be/output_screenshots/02_priority_notifications_top10_200.png`
-- `notification_app_be/output_screenshots/03_priority_notifications_refresh_200.png`
-- `notification_app_be/output_screenshots/04_priority_notifications_cached_200.png`
+![Notification Health 200](notification_app_be/output_screenshots/01_notification_health_200.png)
+![Priority Notifications Top10 200](notification_app_be/output_screenshots/02_priority_notifications_top10_200.png)
+![Priority Notifications Refresh 200](notification_app_be/output_screenshots/03_priority_notifications_refresh_200.png)
+![Priority Notifications Cached 200](notification_app_be/output_screenshots/04_priority_notifications_cached_200.png)
