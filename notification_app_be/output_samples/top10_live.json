@@ -1,0 +1,107 @@
+﻿{
+    "generatedAt":  "2026-05-02T05:29:12.781Z",
+    "totalFetched":  20,
+    "topN":  10,
+    "items":  [
+                  {
+                      "id":  "97102d28-6809-4c1a-8259-16a452be90b7",
+                      "type":  "Placement",
+                      "message":  "Advanced Micro Devices Inc. hiring",
+                      "timestamp":  "2026-05-01 21:58:51",
+                      "isRead":  false,
+                      "typeWeight":  3,
+                      "timestampMs":  1777652931000,
+                      "score":  31777652931000
+                  },
+                  {
+                      "id":  "74bf7ac2-a5c8-4afa-9a52-f5c019bcb018",
+                      "type":  "Placement",
+                      "message":  "Meta Platforms Inc. hiring",
+                      "timestamp":  "2026-05-01 17:58:21",
+                      "isRead":  false,
+                      "typeWeight":  3,
+                      "timestampMs":  1777638501000,
+                      "score":  31777638501000
+                  },
+                  {
+                      "id":  "0f0ea3b1-a1a3-4d3e-bee8-b8b0ed7ebd61",
+                      "type":  "Placement",
+                      "message":  "Eli Lilly and Company hiring",
+                      "timestamp":  "2026-05-01 11:28:57",
+                      "isRead":  false,
+                      "typeWeight":  3,
+                      "timestampMs":  1777615137000,
+                      "score":  31777615137000
+                  },
+                  {
+                      "id":  "fcae85ee-0c7a-4645-b6c1-3f425f393c1c",
+                      "type":  "Placement",
+                      "message":  "Eli Lilly and Company hiring",
+                      "timestamp":  "2026-05-01 07:29:15",
+                      "isRead":  false,
+                      "typeWeight":  3,
+                      "timestampMs":  1777600755000,
+                      "score":  31777600755000
+                  },
+                  {
+                      "id":  "8da82ae6-1fe8-4fae-b934-c2dad1c13a64",
+                      "type":  "Placement",
+                      "message":  "Visa Inc. hiring",
+                      "timestamp":  "2026-05-01 05:58:15",
+                      "isRead":  false,
+                      "typeWeight":  3,
+                      "timestampMs":  1777595295000,
+                      "score":  31777595295000
+                  },
+                  {
+                      "id":  "c47d7787-217b-4a91-8877-f24568ca62d3",
+                      "type":  "Result",
+                      "message":  "mid-sem",
+                      "timestamp":  "2026-05-02 02:27:57",
+                      "isRead":  false,
+                      "typeWeight":  2,
+                      "timestampMs":  1777669077000,
+                      "score":  21777669077000
+                  },
+                  {
+                      "id":  "b8887f55-6f1b-4abe-8e3c-0ab1954ed3ef",
+                      "type":  "Result",
+                      "message":  "project-review",
+                      "timestamp":  "2026-05-02 01:57:21",
+                      "isRead":  false,
+                      "typeWeight":  2,
+                      "timestampMs":  1777667241000,
+                      "score":  21777667241000
+                  },
+                  {
+                      "id":  "b05fa2c0-c94d-452e-a52d-28b83f70a141",
+                      "type":  "Result",
+                      "message":  "mid-sem",
+                      "timestamp":  "2026-05-02 00:58:09",
+                      "isRead":  false,
+                      "typeWeight":  2,
+                      "timestampMs":  1777663689000,
+                      "score":  21777663689000
+                  },
+                  {
+                      "id":  "8ca3483a-72d3-4c9c-b803-3452406283b7",
+                      "type":  "Result",
+                      "message":  "end-sem",
+                      "timestamp":  "2026-05-01 23:58:39",
+                      "isRead":  false,
+                      "typeWeight":  2,
+                      "timestampMs":  1777660119000,
+                      "score":  21777660119000
+                  },
+                  {
+                      "id":  "06e6848f-2fcf-4f63-a721-d1dbfae4604f",
+                      "type":  "Result",
+                      "message":  "end-sem",
+                      "timestamp":  "2026-05-01 23:58:33",
+                      "isRead":  false,
+                      "typeWeight":  2,
+                      "timestampMs":  1777660113000,
+                      "score":  21777660113000
+                  }
+              ]
+}

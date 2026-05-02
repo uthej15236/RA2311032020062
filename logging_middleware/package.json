@@ -1,0 +1,17 @@
+{
+  "name": "campus-logging-middleware",
+  "version": "1.0.0",
+  "description": "Reusable logging client for backend assessment style projects",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node -e \"console.log('No tests configured')\""
+  },
+  "keywords": [
+    "logging",
+    "middleware",
+    "node"
+  ],
+  "author": "candidate",
+  "license": "ISC",
+  "type": "commonjs"
+}

@@ -1,0 +1,115 @@
+﻿{
+    "generatedAt":  "2026-05-02T05:28:50.823Z",
+    "depot":  {
+                  "id":  1,
+                  "mechanicHours":  60
+              },
+    "schedule":  {
+                     "mechanicHours":  60,
+                     "totalDuration":  60,
+                     "totalImpact":  146,
+                     "remainingHours":  0,
+                     "selectedTasks":  [
+                                           {
+                                               "taskId":  "11f3e8e6-b27c-49a7-9ad1-757a05b535f8",
+                                               "duration":  5,
+                                               "impact":  9
+                                           },
+                                           {
+                                               "taskId":  "8e762d24-64cf-45e6-aa83-8ba1aaffc936",
+                                               "duration":  2,
+                                               "impact":  10
+                                           },
+                                           {
+                                               "taskId":  "8fa38187-a7f0-4231-986c-87b92bda0c12",
+                                               "duration":  4,
+                                               "impact":  7
+                                           },
+                                           {
+                                               "taskId":  "bc248d49-9a21-450f-91b2-a8d5ed43e83a",
+                                               "duration":  4,
+                                               "impact":  7
+                                           },
+                                           {
+                                               "taskId":  "f4d83de7-51e7-495d-aa00-3abf488f7be2",
+                                               "duration":  2,
+                                               "impact":  3
+                                           },
+                                           {
+                                               "taskId":  "42db6743-f9a3-46e3-a482-08257757563d",
+                                               "duration":  2,
+                                               "impact":  3
+                                           },
+                                           {
+                                               "taskId":  "1dac69b9-671d-4f93-b83c-0cd98a6ed26a",
+                                               "duration":  6,
+                                               "impact":  8
+                                           },
+                                           {
+                                               "taskId":  "11c8802b-7baa-4772-a862-d3a07dbc6eb2",
+                                               "duration":  2,
+                                               "impact":  7
+                                           },
+                                           {
+                                               "taskId":  "34549e16-3942-411c-8e27-bbe2439521d9",
+                                               "duration":  6,
+                                               "impact":  8
+                                           },
+                                           {
+                                               "taskId":  "8b2d54c0-1cee-4078-bad2-3e62370906dc",
+                                               "duration":  2,
+                                               "impact":  3
+                                           },
+                                           {
+                                               "taskId":  "61ce8a81-c691-4454-9ada-151d67b3401b",
+                                               "duration":  1,
+                                               "impact":  10
+                                           },
+                                           {
+                                               "taskId":  "f8c1487a-4bb5-4740-a44c-9f61e8838fe9",
+                                               "duration":  1,
+                                               "impact":  3
+                                           },
+                                           {
+                                               "taskId":  "ee9ca248-60e2-4bc4-ac8d-0db9c65a1c25",
+                                               "duration":  5,
+                                               "impact":  10
+                                           },
+                                           {
+                                               "taskId":  "2475e738-7245-4f71-ab45-7998ca9d670c",
+                                               "duration":  4,
+                                               "impact":  7
+                                           },
+                                           {
+                                               "taskId":  "61e280d6-3ca8-4907-8669-710ce37cab4a",
+                                               "duration":  2,
+                                               "impact":  10
+                                           },
+                                           {
+                                               "taskId":  "0162e626-f2ae-4026-aeb6-d9a81f02c337",
+                                               "duration":  2,
+                                               "impact":  10
+                                           },
+                                           {
+                                               "taskId":  "8f16ecc2-9e58-4122-a8e9-11ec3c6073a7",
+                                               "duration":  1,
+                                               "impact":  4
+                                           },
+                                           {
+                                               "taskId":  "1b57f951-db0e-4686-9779-0d2631150798",
+                                               "duration":  2,
+                                               "impact":  7
+                                           },
+                                           {
+                                               "taskId":  "6e2cdbb2-0a2d-4594-a41f-20cd1eb1aa73",
+                                               "duration":  4,
+                                               "impact":  10
+                                           },
+                                           {
+                                               "taskId":  "63101792-038a-4daf-8076-64db9a1148be",
+                                               "duration":  3,
+                                               "impact":  10
+                                           }
+                                       ]
+                 }
+}
